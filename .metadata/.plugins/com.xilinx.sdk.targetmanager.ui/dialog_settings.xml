@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<section name="Workbench">
-	<item value="bootloop" key="test_mb-mb0-initElf"/>
-	<item value="system_bd.bmm" key="test_mb-bmmFile"/>
-	<item value="" key="test_mb-bitFile"/>
-</section>
